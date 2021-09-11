@@ -1,0 +1,1 @@
+import{r as s,g as t,h as e}from"./p-5c2d3c6e.js";const r=class{constructor(t){s(this,t)}render(){const s=t("./assets/bulma.css");return e("link",{rel:"stylesheet",href:s})}static get assetsDirs(){return["assets"]}};export{r as honey_bulma_style}
