@@ -1,5 +1,5 @@
 {
-  "name": "@huluvu424242/honey-normalize-style",
+  "name": "@huluvu424242/honey-bulma-style",
   "version": "0.0.1",
   "description": "styles to apply with honey webcomponents.",
   "main": "dist/index.cjs.js",
@@ -9,18 +9,18 @@
   "types": "dist/custom-elements/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/honey-normalize-style/honey-normalize-style.js",
+  "unpkg": "dist/honey-bulma-style/honey-bulma-style.js",
   "files": [
     "dist/",
     "loader/"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Huluvu424242/honey-normalize-style.git"
+    "url": "https://github.com/Huluvu424242/honey-bulma-style.git"
   },
   "keywords": [
     "honey",
-    "normalize",
+    "bulma",
     "style",
     "webcomponent",
     "custom-element"
@@ -28,10 +28,10 @@
   "author": "Huluvu424242 alias FunThomas424242 and in real life Thomas Schubert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Huluvu424242/honey-normalize-style/issues"
+    "url": "https://github.com/Huluvu424242/honey-bulma-style/issues"
   },
   "scripts": {
-    "postinstall": "cp ./node_modules/normalize.css/normalize.css src/components/honey-normalize-style/assets/",
+    "postinstall": "cp ./node_modules/bulma/css/bulma.css src/components/honey-bulma-style/assets/",
     "build": "stencil build --docs",
     "start": "stencil build --dev --watch --serve",
     "test": "echo stencil test --spec --e2e",
@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@stencil/core": "2.8.0",
-    "normalize.css": "^8.0.1"
+    "bulma": "0.9.3"
   },
   "devDependencies": {
     "@types/jest": "26.0.22",

@@ -1,13 +1,13 @@
 import {Component, getAssetPath, h} from '@stencil/core';
 
 @Component({
-  tag: 'honey-normalize-style',
+  tag: 'honey-bulma-style',
   assetsDirs: ['assets']
 })
-export class HoneyNormalizeStyle {
+export class HoneyBulmaStyle {
 
   render() {
-    const stylePath: string = getAssetPath('./assets/normalize.css');
+    const stylePath: string = getAssetPath('./assets/bulma.css');
     return <link rel="stylesheet" href={stylePath}/>
   }
 }

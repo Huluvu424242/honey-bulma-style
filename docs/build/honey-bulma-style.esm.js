@@ -1,0 +1,1 @@
+import{p as e,b as o}from"./p-5c2d3c6e.js";(()=>{const o=import.meta.url,p={};return""!==o&&(p.resourcesUrl=new URL(".",o).href),e(p)})().then((e=>o([["p-1227940d",[[0,"honey-bulma-style"]]]],e)));

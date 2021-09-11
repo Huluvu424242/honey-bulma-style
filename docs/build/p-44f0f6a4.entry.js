@@ -1,1 +1,0 @@
-import{r as s,g as e,h as t}from"./p-f5228f40.js";const r=class{constructor(e){s(this,e)}render(){const s=e("./assets/normalize.css");return t("link",{rel:"stylesheet",href:s})}static get assetsDirs(){return["assets"]}};export{r as honey_normalize_style}
