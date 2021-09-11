@@ -70,7 +70,7 @@ To the [live demo](https://huluvu424242.github.io/honey-bulma-style/index.html)
 
 ### v0.0.1 published at 2021-09-11
 
-* [feature 1](https://github.com/Huluvu424242/honey-bulma-style/projects/1#card-68570697) setup project
+* [feature 1](https://github.com/Huluvu424242/honey-bulma-style/projects/1#card-68577384) setup project
 
 ## warranty
 
@@ -82,6 +82,9 @@ MIT License
 
 ## technology used
 
+credits to the power of:
+
+* [Bulma](https://bulma.io/) (MIT License)
 * [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/API/Window/customElements)
 * [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
