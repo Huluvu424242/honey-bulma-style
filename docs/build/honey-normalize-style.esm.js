@@ -1,0 +1,1 @@
+import{p as o,b as r}from"./p-f5228f40.js";(()=>{const r=import.meta.url,e={};return""!==r&&(e.resourcesUrl=new URL(".",r).href),o(e)})().then((o=>r([["p-44f0f6a4",[[0,"honey-normalize-style"]]]],o)));
